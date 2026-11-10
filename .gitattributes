@@ -1,1 +1,3 @@
-sql/*.sql linguist-detectable=true
+*.sql linguist-detectable=true
+
+sql/*.sql linguist-language=SQL
